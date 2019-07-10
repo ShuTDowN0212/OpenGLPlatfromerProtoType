@@ -1,0 +1,1 @@
+bool LoadObj(char *FileName, GLfloat **Vertex, int *pVertexCnt, unsigned int **TriangleIndex, int *pTraingleCnt);
